@@ -9,5 +9,5 @@ Code Sources
 https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.duplicated.html
 https://sparkbyexamples.com/pandas/pandas-get-list-of-all-duplicate-rows/#google_vignette
 
-* Cell 16- Resource below was used in order to adjust the aesthetics of the boxplot and provide styling for the outlier/flier: 
+* Cell 15- Resource below was used in order to adjust the aesthetics of the boxplot and provide styling for the outlier/flier: 
 https://matplotlib.org/stable/gallery/statistics/boxplot.html
